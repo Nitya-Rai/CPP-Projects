@@ -6,7 +6,7 @@ I'm passionate about programming and enjoy working on projects in my free time. 
 
 ## Contact Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/nitya-rai)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nitya-rai)
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello! I'm always open to collaborating on interesting projects or discussing new ideas.
 
