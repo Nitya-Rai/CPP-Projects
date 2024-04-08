@@ -29,12 +29,6 @@ An Expense Tracker application built in C++.
 - C++ compiler (e.g., g++)
 - C++ standard library
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your_username/expense-tracker.git`
-2. Compile the source code: `g++ ExpenseTracker.cpp -o ExpenseTracker`
-3. Run the executable: `./ExpenseTracker`
-
 ## Usage
 
 - Run the executable and follow the on-screen instructions to manage expenses.
@@ -63,12 +57,6 @@ A Movie Ticket Booking System implemented in C++.
 - C++ compiler (e.g., g++)
 - C++ standard library
 
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your_username/movie-ticket-booking.git`
-2. Compile the source code: `g++ MovieTicketBookingSystem.cpp -o MovieTicketBookingSystem`
-3. Run the executable: `./MovieTicketBookingSystem`
-
 ## Usage
 
 - Run the executable and follow the on-screen instructions to book tickets.
@@ -96,12 +84,6 @@ A simple To-Do List application written in C++.
 
 - C++ compiler (e.g., g++)
 - C++ standard library
-
-### Installation
-
-1. Clone the repository: `git clone https://github.com/your_username/todo-list.git`
-2. Compile the source code: `g++ ToDoList.cpp -o ToDoList`
-3. Run the executable: `./ToDoList`
 
 ## Usage
 
