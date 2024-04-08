@@ -10,7 +10,7 @@ I'm passionate about programming and enjoy working on projects in my free time. 
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello! I'm always open to collaborating on interesting projects or discussing new ideas.
 
-## My Projects
+# My Projects
 
 # Expense Tracker
 
